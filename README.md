@@ -1,0 +1,1 @@
+You can access the presentation at https://jackybaltes.github.io/Computer-Vision---Convolution-and-Edge-Detection-II/
